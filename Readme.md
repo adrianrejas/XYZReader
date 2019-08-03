@@ -10,8 +10,8 @@ The main changes are commented over the code.
 | Main Screen | Article screen |  Article screen scrolled |
 |:-:|:-:|:-:|
 | ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitDetail.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitDetailScrolled.png?raw=true) |
-| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetail.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetailScrolled.png?raw=true) |
-| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetail.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailScrolled.png?raw=true) |
+| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetailsScrolled.png?raw=true) |
+| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailsScrolled.png?raw=true) |
 
 ## Main libraries used 
 
