@@ -16,7 +16,7 @@ The main changes are commented over the code.
 
 | Main Screen | Article screen |  Article screen scrolled |
 |:-:|:-:|:-:|
-ç| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailsScrolled.png?raw=true) |
+| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailsScrolled.png?raw=true) |
 
 ## Main libraries used 
 
