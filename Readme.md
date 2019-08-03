@@ -5,13 +5,18 @@ In this project, I've redesigned the XYZ-reader app code provided by Udacity acc
 
 The main changes are commented over the code.
 
-## Screenshots
+## Screenshots in 5' phone
 
 | Main Screen | Article screen |  Article screen scrolled |
 |:-:|:-:|:-:|
 | ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitDetail.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesPortraitDetailScrolled.png?raw=true) |
 | ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/5inchesLandDetailsScrolled.png?raw=true) |
-| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailsScrolled.png?raw=true) |
+
+## Screenshots in 10' tablet
+
+| Main Screen | Article screen |  Article screen scrolled |
+|:-:|:-:|:-:|
+ç| ![First](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandList.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetails.png?raw=true) | ![Sec](https://github.com/adrianrejas/XYZReader/blob/master/captures/10inchesLandDetailsScrolled.png?raw=true) |
 
 ## Main libraries used 
 
