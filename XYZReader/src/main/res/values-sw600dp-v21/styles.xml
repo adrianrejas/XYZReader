@@ -1,0 +1,89 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/font_size_standard</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textColorLink">@color/secondaryColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/font_size_standard</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textColorLink">@color/secondaryColor</item>
+    </style>
+
+    <style name="Theme.Bacon.TextData" parent="Theme.Bacon">
+        <item name="android:textSize">@dimen/font_size_list_text</item>
+        <item name="android:alpha">0.87</item>
+        <item name="android:lineSpacingMultiplier">@fraction/detail_body_line_spacing_multiplier</item>
+    </style>
+
+    <style name="Theme.Bacon.TextTitle" parent="Theme.Bacon">
+        <item name="android:textSize">@dimen/font_size_list_title</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:alpha">0.87</item>
+    </style>
+
+    <style name="Theme.Bacon.TextByline" parent="Theme.Bacon">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/font_size_list_byline</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:alpha">0.60</item>
+    </style>
+
+    <style name="Theme.Bacon.ActionBar" parent="Theme.Bacon">
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:actionMenuTextColor">@color/secondaryTextColor</item>
+        <item name="colorControlNormal">@color/secondaryTextColor</item>
+    </style>
+
+    <style name="Theme.Bacon.ActionBar.Light" parent="Theme.Bacon">
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:actionMenuTextColor">@color/primaryTextColor</item>
+        <item name="colorControlNormal">@color/primaryTextColor</item>
+    </style>
+
+    <style name="Theme.Bacon.ActionBar.TextTitle" parent="Theme.Bacon.ActionBar">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">@dimen/font_size_list_title_actionbar</item>
+        <item name="android:alpha">0.87</item>
+    </style>
+
+    <style name="Theme.Bacon.ActionBar.TextByline" parent="Theme.Bacon.ActionBar">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">@dimen/font_size_list_byline_actionbar</item>
+        <item name="android:alpha">0.60</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CHANGE: Textview representing a paragraph of the article body -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/article_paragraph"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/Theme.Bacon.TextData"
+    android:layout_marginEnd="@dimen/space_between_paragraps"
+    tools:text="This is an example test about how it's going the text to be shown"/>

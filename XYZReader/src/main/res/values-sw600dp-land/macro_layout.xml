@@ -1,0 +1,5 @@
+<resources>
+    <!-- detail -->
+    <integer name="list_column_count">5</integer>
+    <string name="detail_photo_aspect_ratio">H,1.5:1</string>
+</resources>
