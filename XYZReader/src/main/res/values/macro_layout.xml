@@ -29,6 +29,6 @@
     <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_elevation_pressed">12dp</dimen>
-    <dimen name="card_elevation">0dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
     <dimen name="card_elevation_pressed">8dp</dimen>
 </resources>
