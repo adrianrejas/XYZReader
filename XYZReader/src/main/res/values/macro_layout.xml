@@ -26,7 +26,7 @@
 
     <!-- CHANGE: Defining element elevations according to material design principles -->
     <!-- elevations -->
-    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_elevation_pressed">12dp</dimen>
     <dimen name="card_elevation">0dp</dimen>
